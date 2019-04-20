@@ -12,21 +12,8 @@ import os
 import requests
 from lxml import html, etree
 from bs4 import BeautifulSoup
+import pandas # for data cleaning
 ```
-
-### XPath解析HTML
-
-* 标题 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/h4/a/span
-* 户型 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[1]
-* 面积 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[2]
-* 楼层 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[3]
-* 朝向 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[4]
-* 年份 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[5]
-* 总价 //*[@id="kesfqbfylb_A01_01_62"]/dd[2]/span[1]/b
-* 单价 //*[@id="kesfqbfylb_A01_01_62"]/dd[2]/span[2]
-* 地址 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[2]/span
-* 小区 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[2]/a/@title
-
 ### project structure
 
 <div class="highlight-none notranslate"><div class="highlight"><pre><span></span>root/
@@ -46,3 +33,18 @@ from bs4 import BeautifulSoup
 │   ├── fang_page_100
 </pre></div>
 </div>
+
+
+### XPath解析HTML
+```python
+# 标题 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/h4/a/span
+# 户型 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[1]
+# 面积 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[2]
+# 楼层 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[3]
+# 朝向 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[4]
+# 年份 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[1]/text()[5]
+# 总价 //*[@id="kesfqbfylb_A01_01_62"]/dd[2]/span[1]/b
+# 单价 //*[@id="kesfqbfylb_A01_01_62"]/dd[2]/span[2]
+# 地址 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[2]/span
+# 小区 //*[@id="kesfqbfylb_A01_01_62"]/dd[1]/p[2]/a/@title
+```
