@@ -21,7 +21,7 @@ import pandas # for data cleaning
 │   ├── all_fang_info
 │   ├── data_cleaning.ipynb
 │   ├── data_cleaning.py
-│   ├── 东湖高新二手房信息汇总_Double
+│   ├── 东湖高新二手房信息汇总_Double.csv
 ├── huawei_crawler.py
 ├── read_fang.py
 ├── picture/
