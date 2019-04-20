@@ -5,6 +5,11 @@
 
 可能要回国就业, 考虑到武汉的互联网大厂集中在东湖高新大光谷片区, 通勤不是很方便(村), 应该会产生就近购房的需求, 提前写了一个简单的爬虫, 数据来源是[房天下](https://wuhan.esf.fang.com/house-a013126)
 
+### Report
+
+* [东湖高新二手房信息汇总_Double.csv](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/all_info/%E4%B8%9C%E6%B9%96%E9%AB%98%E6%96%B0%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB_Double.csv)
+* 可视化分析报告后续会更进
+
 ### Requirements
 
 ```python
