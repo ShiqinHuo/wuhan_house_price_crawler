@@ -8,6 +8,11 @@
 ### Report
 
 * [东湖高新二手房信息汇总_Double.csv](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/all_info/%E4%B8%9C%E6%B9%96%E9%AB%98%E6%96%B0%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB_Double.csv)
+  * 总共爬取100页数据共计6000条, 其中有效数据5877条
+* [东湖高新公寓汇总_Double.csv](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/all_info/%E4%B8%9C%E6%B9%96%E9%AB%98%E6%96%B0%E5%85%AC%E5%AF%93%E6%B1%87%E6%80%BB_Double.csv)
+  * 有效数据5877条中有5614条均为公寓
+* [东湖高新别墅汇总_Double.csv](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/all_info/%E4%B8%9C%E6%B9%96%E9%AB%98%E6%96%B0%E5%88%AB%E5%A2%85%E6%B1%87%E6%80%BB_Double.csv) 
+  * 仅有263条别墅记录 
 * 可视化分析报告后续会更进
 
 ### Requirements
