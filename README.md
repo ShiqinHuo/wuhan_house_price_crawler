@@ -15,17 +15,13 @@
   * 仅有263条别墅记录 
 * 可视化分析报告后续会更进
   * [小区中位单价可视化放大图](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E5%8F%AF%E8%A7%86%E5%8C%96%E6%94%BE%E5%A4%A7%E5%9B%BE.md)
-  * 示例如下, 查看全部放大图请点👆链接
-<div align="center">
-<img src="https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/zoom_res/zoom1.png" width="200" alt="中位单价放大图1" >
-<img src="https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/zoom_res/detail1.png" width="600" alt="中位单价可视化放大图1" >
-</div>
-
+    * 示例如下, 查看全部放大图请点👆链接
+    * <div align="center"><img src="https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/zoom_res/zoom1.png" width="200" alt="中位单价放大图1" ><img src="https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/zoom_res/detail1.png" width="600" alt="中位单价可视化放大图1" ></div>
   * [中位单价条形图 by小区](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E6%9D%A1%E5%BD%A2%E5%9B%BE.md)
-  * 示例如下, 查看全部条形图请点👆链接
-    * ![小区中位单价条形图1](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/community_bar/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E6%9D%A1%E5%BD%A2%E5%9B%BE1.png)
-  * [小区中位单价表 by年份](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E8%A1%A8by%E5%B9%B4%E4%BB%BD.md)
-  * 示例如下, 查看全部报表请点👆链接
+    * 示例如下, 查看全部条形图请点👆链接
+     ![小区中位单价条形图1](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/community_bar/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E6%9D%A1%E5%BD%A2%E5%9B%BE1.png)
+   * [小区中位单价表 by年份](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E8%A1%A8by%E5%B9%B4%E4%BB%BD.md)
+     * 示例如下, 查看全部报表请点👆链接
     * ![小区中位年份单价表1](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/years_pic/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E5%B9%B4%E4%BB%BD%E8%A1%A81.png)
 
 
