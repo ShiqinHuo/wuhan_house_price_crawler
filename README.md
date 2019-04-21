@@ -15,7 +15,7 @@
   * 仅有263条别墅记录 
 * 可视化分析报告后续会更进
 
-![小区中位单价条形图1](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/community_bar/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E6%9D%A1%E5%BD%A2%E5%9B%BE1.png | width=500)
+![小区中位单价条形图1](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/community_bar/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E6%9D%A1%E5%BD%A2%E5%9B%BE1.png)
 
 ![小区中位单价条形图2](https://github.com/ShiqinHuo/wuhan_house_price_crawler/blob/master/community_bar/%E5%B0%8F%E5%8C%BA%E4%B8%AD%E4%BD%8D%E5%8D%95%E4%BB%B7%E6%9D%A1%E5%BD%A2%E5%9B%BE2.png | width=500)
 
